@@ -9,6 +9,7 @@ const Home = () => {
       <p>kdkjdsj Snehakl Kherkar code </p>
       <p>Snehal tag</p>
       <p>My last code</p>
+      <p>Hii, this is the conflict of two codes</p>
     </div>
   )
 }
